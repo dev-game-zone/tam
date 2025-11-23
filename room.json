@@ -1,0 +1,32 @@
+{
+  "version": "2025-11-23-1",
+  "rooms": [
+    {
+      "roomId": "r1",
+      "roomName": "Conference A",
+      "beaconId": "BEACON-UUID-001",
+      "mapPosition": {
+        "x": 0.2,
+        "y": 0.75
+      }
+    },
+    {
+      "roomId": "r2",
+      "roomName": "Office 101",
+      "beaconId": "BEACON-UUID-002",
+      "mapPosition": {
+        "x": 0.5,
+        "y": 0.6
+      }
+    },
+    {
+      "roomId": "r3",
+      "roomName": "Reception",
+      "beaconId": "BEACON-UUID-003",
+      "mapPosition": {
+        "x": 0.1,
+        "y": 0.2
+      }
+    }
+  ]
+}
