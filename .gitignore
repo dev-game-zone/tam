@@ -1,0 +1,6 @@
+# Ignore PEM keys
+*.pem
+
+# Ignore local signature files (optional)
+*.sig
+*.sig.bin
